@@ -1,0 +1,138 @@
+[
+ {
+  "erp_ref": "T01",
+  "name": "Ms Anjali Mehta",
+  "role": "teacher",
+  "class": "7B",
+  "title": "Class teacher, 7B",
+  "chosen": true
+ },
+ {
+  "erp_ref": "T02",
+  "name": "Mr Rohan Verma",
+  "role": "teacher",
+  "title": "Sports teacher",
+  "chosen": true
+ },
+ {
+  "erp_ref": "T03",
+  "name": "Ms Priya Nair",
+  "role": "teacher",
+  "title": "Hindi teacher",
+  "chosen": true
+ },
+ {
+  "erp_ref": "C01",
+  "name": "Ms Farah Khan",
+  "role": "counsellor",
+  "title": "School counsellor",
+  "chosen": true
+ },
+ {
+  "erp_ref": "P01",
+  "name": "Mr Suresh Iyer",
+  "role": "principal",
+  "title": "Principal"
+ },
+ {
+  "erp_ref": "V01",
+  "name": "Ms Kavita Rao",
+  "role": "pocso",
+  "title": "Vice principal, POCSO officer"
+ },
+ {
+  "erp_ref": "N01",
+  "name": "Nurse Meena Das",
+  "role": "nurse",
+  "title": "School nurse"
+ },
+ {
+  "erp_ref": "M01",
+  "name": "Mrs Leela D'Souza",
+  "role": "management",
+  "title": "Management committee"
+ },
+ {
+  "erp_ref": "A01",
+  "name": "Mr Arjun Patel",
+  "role": "admin",
+  "title": "IT and devices"
+ },
+ {
+  "erp_ref": "S7B01",
+  "name": "Riya Sharma",
+  "role": "student",
+  "class": "7B",
+  "band": 1001,
+  "adult": "T01"
+ },
+ {
+  "erp_ref": "S7B02",
+  "name": "Aarav Gupta",
+  "role": "student",
+  "class": "7B",
+  "band": 1002,
+  "adult": "T02"
+ },
+ {
+  "erp_ref": "S7B03",
+  "name": "Kabir Singh",
+  "role": "student",
+  "class": "7B",
+  "band": 1003,
+  "adult": "C01"
+ },
+ {
+  "erp_ref": "S7B04",
+  "name": "Meera Joshi",
+  "role": "student",
+  "class": "7B",
+  "band": 1004,
+  "adult": "T01",
+  "nurse_on_help": true
+ },
+ {
+  "erp_ref": "S7B05",
+  "name": "Zoya Ali",
+  "role": "student",
+  "class": "7B",
+  "band": 1005
+ },
+ {
+  "erp_ref": "S6A01",
+  "name": "Ananya Bose",
+  "role": "student",
+  "class": "6A",
+  "band": 1006,
+  "adult": "T03"
+ },
+ {
+  "erp_ref": "S8A01",
+  "name": "Ishaan Kapoor",
+  "role": "student",
+  "class": "8A",
+  "band": 1007,
+  "adult": "C01"
+ },
+ {
+  "erp_ref": "S8A02",
+  "name": "Sara Thomas",
+  "role": "student",
+  "class": "8A"
+ },
+ {
+  "erp_ref": "S4A01",
+  "name": "Dev Malhotra",
+  "role": "student",
+  "class": "4A",
+  "band": 1008,
+  "adult": "T03"
+ },
+ {
+  "erp_ref": "G01",
+  "name": "Mrs Sunita Sharma",
+  "role": "parent",
+  "title": "Parent of Riya Sharma",
+  "child": "S7B01"
+ }
+]

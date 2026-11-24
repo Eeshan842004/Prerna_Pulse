@@ -1,0 +1,38 @@
+{
+  "_note": "Prototype library. In production Prerana AI drafts activities from a fixed prompt library and a person reviews each one before teachers see it.",
+  "class_tension": [
+    {
+      "title": "Two kind things",
+      "minutes": 10,
+      "goal": "Rebuild warmth after a tense week, without singling anyone out.",
+      "steps": [
+        "Ask everyone to write one kind thing someone in class did this week, no names needed.",
+        "Collect the slips in a box and read five aloud.",
+        "Ask: what is one small thing we could do for each other tomorrow?",
+        "End with a 1-minute quiet breathing round."
+      ]
+    },
+    {
+      "title": "Weather report",
+      "minutes": 10,
+      "goal": "Give feelings words in a low-pressure way.",
+      "steps": [
+        "Draw five weather symbols on the board: sunny, cloudy, windy, rainy, stormy.",
+        "Each student silently picks the one that matches their week, on paper only.",
+        "Talk about what helps when the weather inside is stormy.",
+        "Remind the class they can message any trusted adult from the tablet."
+      ]
+    },
+    {
+      "title": "Circle of change",
+      "minutes": 10,
+      "goal": "Surface group friction safely, for example being left out.",
+      "steps": [
+        "Read a two-line story about a child left out of a group chat.",
+        "Ask in pairs: how might they feel, and what could a classmate do?",
+        "Collect three ideas on the board and agree on one as a class.",
+        "Thank the class and do not ask anyone about themselves."
+      ]
+    }
+  ]
+}

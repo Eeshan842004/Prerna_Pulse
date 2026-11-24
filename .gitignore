@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Local build, recordings and run artefacts (the finished videos in docs/ ARE kept)
+docs/video/build/
+e2e-video/
+.queue-*.json
+.band-counters.json
+*.log
+
+# Secrets and local settings: only .env.example (demo values) is committed
+.env
+.env.local
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+node_modules/
