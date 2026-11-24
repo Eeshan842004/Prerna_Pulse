@@ -82,3 +82,13 @@ docs/       technical docs, demo script, PPT material, flowcharts, videos
 - **Emotion model:** a small per-child Naive Bayes model that only orders the band's menu; the child always confirms. Measured on simulated children (see the Under the hood page): modestly better than "most common feeling". Real accuracy needs a pilot. The band never detects emotions.
 
 We had no hardware for this round. All names in the demo are made up.
+
+## Deploy on Vercel (the web app, no server needed)
+
+The web app is static, so Vercel serves the `web/` folder as is (config in `vercel.json`). With no API
+present it runs on its in-browser engine, which is exactly what the demo needs. The Python server
+(`backend/`) needs PostgreSQL and background workers, so it is not deployed on Vercel.
+
+1. Go to https://vercel.com/new and import `Eeshan842004/Prerna_Pulse`.
+2. Leave Framework Preset as "Other". Build and install commands stay empty; the output directory is `web`.
+3. Click Deploy. The site opens at `https://<project-name>.vercel.app`.
